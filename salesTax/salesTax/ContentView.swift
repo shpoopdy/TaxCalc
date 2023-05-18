@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  salesTax
 //
-//  Created by Mikey Crispin on 5/8/23.
+//  Created by Mikey on 5/8/23.
 //
 
 import SwiftUI
