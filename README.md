@@ -1,4 +1,4 @@
 # TaxCalc
-![Xcode screen with code](/images/XcodeScreen.png)
-![iPhone simulator before calculation](/images/preCalc.png)
-![iPhone simulartor after calculation](/images/postCalc.png)
+![Xcode screen with code](/Images/XcodeScreen.png)
+![iPhone simulator before calculation](/Images/preCalc.png)
+![iPhone simulartor after calculation](/Images/postCalc.png)
